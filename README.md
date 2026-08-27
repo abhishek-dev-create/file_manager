@@ -29,7 +29,7 @@ pip install colorama
 2. Run the script from your terminal:
 
 ```bash
-python file_arranger.py
+python file_manager.py
 ```
 
 3. Choose **Option 1** when prompted.
